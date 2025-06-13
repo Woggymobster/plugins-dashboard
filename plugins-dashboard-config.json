@@ -1,5 +1,5 @@
 {
-  "gitHubUser": "cp2004",
+  "gitHubUser": "Woggymobster",
   "plugins": [
     {"id": "ws281x_led_status", "name": "WS281x LED Status", "url": "https://github.com/cp2004/OctoPrint-WS281x_LED_Status", "repo": "OctoPrint-WS281x_LED_Status"},
     {"id": "eeprom_marlin", "name": "Marlin EEPROM Editor", "url": "https://github.com/cp2004/OctoPrint-EEPROM-Marlin", "repo": "OctoPrint-EEPROM-Marlin"},
