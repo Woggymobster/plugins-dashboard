@@ -3,7 +3,7 @@
   "private": true,
   "description": "A dashboard for my OctoPrint plugins",
   "version": "0.1.0",
-  "author": "Taylor Talkington",
+  "author": "Bloodnofski",
   "scripts": {
     "build": "gatsby build --prefix-paths",
     "develop": "gatsby develop",
