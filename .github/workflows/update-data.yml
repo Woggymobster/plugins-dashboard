@@ -13,7 +13,7 @@ jobs:
         name: Checkout repo
         with:
           ref: cp2004
-          token: ${{ secrets.REPO_TOKEN }}
+          token: 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
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
